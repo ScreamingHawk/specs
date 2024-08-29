@@ -51,6 +51,7 @@
     - [Holocine](./protocol/holocene/overview.md)
       - [Predeploys](./protocol/holocene/predeploys.md)
       - [SystemConfig](./protocol/holocene/system-config.md)
+      - [L1 Block Attributes](./protocol/holocene/l1-attributes.md)
 - [Governance]()
   - [Governance Token](./governance/gov-token.md)
 - [Experimental]()
